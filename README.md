@@ -1,6 +1,6 @@
 # Supplementary material
 
-*Supplementary material for The Code of Life: a Pilot Bioinformatics Curriculum for Brazilian High Schools*
+*Supplementary material for "The Code of Life: a Pilot Bioinformatics Curriculum for Brazilian High Schools"*
 
 ## Projects links
 
